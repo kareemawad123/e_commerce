@@ -1,6 +1,6 @@
 # e_commerce
 
-Ecommerce Flutter project.
+Ecommerce Flutter project with firebase.
 
 ## onboarding
 ![Screenshot_2022-07-06-13-14-17-227_com example e_commerce](https://user-images.githubusercontent.com/106269253/177539123-b65197dc-5305-4a3b-972a-dafdce52c52b.jpg)
