@@ -1,16 +1,17 @@
 # e_commerce
 
-A new Flutter project.
+Ecommerce Flutter project.
 
-## Getting Started
+## onboarding
+![Screenshot_2022-07-06-13-14-17-227_com example e_commerce](https://user-images.githubusercontent.com/106269253/177539123-b65197dc-5305-4a3b-972a-dafdce52c52b.jpg)
 
-This project is a starting point for a Flutter application.
+## HomeScreen
+![Screenshot_2022-07-06-13-13-45-127_com example e_commerce](https://user-images.githubusercontent.com/106269253/177539148-770da9ac-290c-448a-b7fc-ba4dc84942bf.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## ProductScreen
+![Screenshot_2022-07-06-13-13-56-088_com example e_commerce](https://user-images.githubusercontent.com/106269253/177539173-bcfde7bd-b455-4420-bd0a-639e608a2217.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## CartScreen
+![Screenshot_2022-07-06-13-14-01-847_com example e_commerce](https://user-images.githubusercontent.com/106269253/177539193-eced4939-c5cd-40f6-8ea8-8b8f5edeb22d.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
